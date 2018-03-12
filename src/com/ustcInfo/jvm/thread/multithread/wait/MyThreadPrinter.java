@@ -8,7 +8,7 @@ import com.ustcInfo.util.LogFactory;
 import com.ustcInfo.util.LogUtil;
 
 /**
- * 多线程学习,
+ * 多线程学习,wait
  * @author guang.wei
  * @datetime 2018年3月12日 上午11:37:41
  */

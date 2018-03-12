@@ -2,6 +2,11 @@ package com.ustcInfo.jvm.thread.multithread.wait;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
+/**
+ * 顺序打印ABC
+ * @author guang.wei
+ * @datetime 2018年3月12日 下午8:45:17
+ */
 public class TestAsynTreadXunlei {
 
 	public static void main(String argv[]) {  
