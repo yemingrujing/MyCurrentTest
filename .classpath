@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="E:/java/jar/commons-lang-2.6/commons-lang-2.6.jar"/>
 	<classpathentry kind="lib" path="E:/java/jar/jedis-2.9.0.jar" sourcepath="C:/Users/guang.wei/AppData/Local/Temp/.org.sf.feeling.decompiler1523581603655/source/jedis-2.9.0-sources.jar"/>
 	<classpathentry kind="lib" path="E:/java/jar/commons-pool2-2.5.0/commons-pool2-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/java/jar/lombok.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

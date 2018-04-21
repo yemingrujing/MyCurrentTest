@@ -66,5 +66,7 @@ public class DefaultEncyptionService {
     public static void main(String[] args) throws Exception {
     	DefaultEncyptionService encyption = new DefaultEncyptionService();
     	System.out.println(encyption.encode("abc"));
+    	System.out.println(encyption.decode("04E546B6A488FB8510C02D84EEEF14D3"));
+    	System.out.println(encyption.decode("2FA0DED7FBBCE97F5D2633D243DC2E8B"));
 	}
 }
