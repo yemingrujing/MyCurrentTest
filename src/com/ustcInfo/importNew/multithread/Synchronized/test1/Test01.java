@@ -16,7 +16,7 @@ public class Test01 {
 		
 		service.shutdown();
 		
-		while(!service.isTerminated()) {
+		while(!service.isTerminated()) { //isTerminated当调用shutdown()方法后，并且所有提交的任务完成后返回为true
 			
 		}
 		System.out.println("账户余额: " + account.getBalance());
